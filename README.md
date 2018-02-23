@@ -21,7 +21,13 @@ so the amount of maximum outcomes is 36 which means that the probability will be
 ![Equation for probability](https://github.com/LukeShead/Maths/blob/master/Probability%20equation.JPG) Taken from https://saylordotorg.github.io/text_introductory-statistics/s07-03-conditional-probability-and-in.html
 
 
+### Identify the expectation of an event occurring from a discrete, random variable
 
+First thing you have to make sure when doing this is that the amount that will be randomly selected is a finite amount, so to get results you choose a finite amount but do the task repeatedly, this means that there will be successful results.
+
+![equation for random probability](https://github.com/LukeShead/Maths/blob/master/Random%20Inifite%20probability.JPG) Taken from https://www.cut-the-knot.org/m/Probability/InfiniteDiscrete.shtml
+
+Above is the formula that can be used, the input can be any random variable. One example that I will use is to devide any amount by 5 and what is the probability of it being able to be divisible by 5. The answer to this question is 1/5, this is because the number 5 can only be divisible by any number that ends with the value 5 or 0. Because of the numbers we are given that can be the values which would be 1,2,3,4,5,6,7,8,9,0, there are only 2 numbers that can be used which is 5 and 0 which means the probability would be 2/10 however when simplifying the fraction we come to the answer of 1/5.
 
 ### Calculating the greatest common divisor.
 
