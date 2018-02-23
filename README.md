@@ -12,7 +12,7 @@ Probability is the process of chance, and how it can affect the chances of certa
 
 The Greatest Common Divisor or otherwise known as the Highest Common Factor (HCF) of two numbers that aren't negative is the largest positive number that divides both numbers without a remainder, this excluded any form of decimal number. This method of maths is very useful for finding the simplist form for fractions as it allows the numbers to be reduced to a number that is easier to digest. For example, 
 
-### TWO NUMBERS 12 AND 15
+#### TWO NUMBERS 12 AND 15
 
 The original fraction would be 12/15
 
@@ -22,6 +22,7 @@ The common factors of these numbers are,
 
 By multiplying the number 3 a certain amount of times we can get our lowest common divisor, 3 goes into 12, 4 times and 5 for 15. 
 #### This means the new fraction is 4/5 instead of 12/15
+
 
 ### Calculating the lowest common multiple of two numbers
 
