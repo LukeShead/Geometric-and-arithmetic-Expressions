@@ -119,9 +119,16 @@ return (0);
  
 }
 
-### Identifying simmple shapes using co-ordiante geometry
+### Identifying simple shapes using co-ordiante geometry
 
 When designing and developing softwares or algorithms that involves shapes, you must be sure that it is the correct shape that it is being used is the right shape and how each shape is defined through the algorithm. this can be done through co-ordinate geometry, this is the rules of which shapes are defined, for example, a square will must be four sided of an equal length with four right angles on it, following these rules will mean that the shape will be a square no matter what the size of the shape. 
 
 There are properties to every shape, these properties can be summed up in a table that allows people to see what kind of shape it is, this is espiecially important for quadrilaterals as many shapes can be made by changing a property of it. 
+
+![Quad properties](https://github.com/LukeShead/Maths/blob/master/Quad%20properties.JPG) Taken from https://www.sophia.org/tutorials/coordinate-geometry-of-quadrilaterals--2
+
+Above is the table that shows the properties of quadrilaterals and how they differ depending on the properties that they have. 
+
+These properties can be better shown when using co-ordinates, for example a square will have 4 equal sides and 4 right angles, with co-ordinates that can be shown by saying that on a graph the points will be: (2,2) (2,-2) (-2,2) (-2,-2), because all sides are equal and with the right angles, the sides are complete opposites which means the points must be too. 
+Demonstrating this with a rectangle, the points would looks something more like this, (2,3) (2,-3) (-2,3) (-2,-3). A rectangle is required to have 2 equal sides, this means that there has to be longer horizontal lines than landscape, this means that the 2 horizontal lines will be equal and so will the 2 landscape lines. 
 
