@@ -8,7 +8,20 @@ This repo will be covering probability and mathematic expressions on a basic lev
 
 Probability is the process of chance, and how it can affect the chances of certain events happening, for example if someone rolls a 6 sided dice, the probability of the dice landing on 1 is a 1/6 chance. If someone draws a card from full deck, the probability that their card will be red is an 27/54 chance to draw it. However these numbers are able to be simplified down to a 1/2 chance otherwise known as a half chance as they scale down accordingly.
 
-![Equation for probability](https://github.com/LukeShead/Maths/blob/master/Probability%20equation.JPG)
+### Deduce the conditional probability of different events occurring within independent trials
+
+When looking at independent trials, I will be analysing a dice roll, the reason for this is that the dice can have multiple outcomes depending upon many different factors that cannot be controlled. For this trial I will be using two dice to throw.
+
+#### What is the probability of the dice creating a value of 8 in total?
+
+When looking at this trial, you have to find out how many outcomes are possible from this roll, there are 6 sides on each dice that are exactly the same. So the amount of outcomes can be equal to 6x6 which is 36, this is how many different outcomes can come from these rolls. Before calculating the exact probability you have to figure out how many different outcomes can make the value of 8, for example 1 and 7 can make 8 as well as two 4's, by factoring in these different parts of the roll you can now calculate the probability. 
+
+so the amount of maximum outcomes is 36 which means that the probability will be */36, after looking at this
+
+![Equation for probability](https://github.com/LukeShead/Maths/blob/master/Probability%20equation.JPG) Taken from https://saylordotorg.github.io/text_introductory-statistics/s07-03-conditional-probability-and-in.html
+
+
+
 
 ### Calculating the greatest common divisor.
 
