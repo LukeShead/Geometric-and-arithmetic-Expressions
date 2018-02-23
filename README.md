@@ -16,7 +16,7 @@ When looking at independent trials, I will be analysing a dice roll, the reason 
 
 When looking at this trial, you have to find out how many outcomes are possible from this roll, there are 6 sides on each dice that are exactly the same. So the amount of outcomes can be equal to 6x6 which is 36, this is how many different outcomes can come from these rolls. Before calculating the exact probability you have to figure out how many different outcomes can make the value of 8, for example 1 and 7 can make 8 as well as two 4's, by factoring in these different parts of the roll you can now calculate the probability. 
 
-so the amount of maximum outcomes is 36 which means that the probability will be */36, after looking at this
+so the amount of maximum outcomes is 36 which means that the probability will be */36, because of this all that is needed is the first part. The amount of outcomes for the total of 8 comes as follows, 2 and 6, 3 and 5, 4 and 4, 5 and 3, 6 and 2, in total there is a possability of 5 different outcomes that can make a total of 8. Because of this the probability of a total of 8 is 5/36. If the answer had been different the fraction would be 
 
 ![Equation for probability](https://github.com/LukeShead/Maths/blob/master/Probability%20equation.JPG) Taken from https://saylordotorg.github.io/text_introductory-statistics/s07-03-conditional-probability-and-in.html
 
