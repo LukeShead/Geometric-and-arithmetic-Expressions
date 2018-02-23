@@ -23,6 +23,9 @@ The common factors of these numbers are,
 By multiplying the number 3 a certain amount of times we can get our lowest common divisor, 3 goes into 12, 4 times and 5 for 15. 
 #### This means the new fraction is 4/5 instead of 12/15
 
+### Calculating the lowest common multiple of two numbers
+
+When calculating the lowest commmon multiple of two numbers, you have to follow a very simple process of addition. If i wanted to find the LCM of seven and eight, i would have to folow the muliples of both numbers, you start with adding the number by itself to get the multiples of the number. For example the multiples of seven are 7, 14, 21, 28, 35, 42, 29, 56 etc. By looking at these multiples of seven, we need to find the lowest common multiple with eight, so you would need to do the same with eight until a number appears that goes into the multiples of eight and seven. Multiples of 8 are 8, 16, 24, 32, 40, 48, 56 etc. From these multiples you can see that the LCM between 7 and 8 is 56 as it is a multiple of both numbers and is the first common multiple to appear. That is how you find the LCM to two numbers.
 
 ### Arithmetic and geometric progressions
 
