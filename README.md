@@ -118,3 +118,7 @@ return (0);
 
  
 }
+
+### Identifying simmple shapes using co-ordiante geometry
+
+When designing and developing softwares or algorithms that involves shapes, you must be sure that it is the correct shape that it is attempting
