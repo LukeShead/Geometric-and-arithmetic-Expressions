@@ -8,7 +8,7 @@ This repo will be covering probability and mathematic expressions on a basic lev
 
 Probability is the process of chance, and how it can affect the chances of certain events happening, for example if someone rolls a 6 sided dice, the probability of the dice landing on 1 is a 1/6 chance. If someone draws a card from full deck, the probability that their card will be red is an 27/54 chance to draw it. However these numbers are able to be simplified down to a 1/2 chance otherwise known as a half chance as they scale down accordingly.
 
-![https://github.com/LukeShead/Maths/blob/master/Probability%20equation.JPG]
+![Equation for probability](https://github.com/LukeShead/Maths/blob/master/Probability%20equation.JPG)
 
 ### Calculating the greatest common divisor.
 
