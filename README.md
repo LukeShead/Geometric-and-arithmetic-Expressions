@@ -121,4 +121,7 @@ return (0);
 
 ### Identifying simmple shapes using co-ordiante geometry
 
-When designing and developing softwares or algorithms that involves shapes, you must be sure that it is the correct shape that it is attempting
+When designing and developing softwares or algorithms that involves shapes, you must be sure that it is the correct shape that it is being used is the right shape and how each shape is defined through the algorithm. this can be done through co-ordinate geometry, this is the rules of which shapes are defined, for example, a square will must be four sided of an equal length with four right angles on it, following these rules will mean that the shape will be a square no matter what the size of the shape. 
+
+There are properties to every shape, these properties can be summed up in a table that allows people to see what kind of shape it is, this is espiecially important for quadrilaterals as many shapes can be made by changing a property of it. 
+
