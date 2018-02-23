@@ -31,3 +31,69 @@ When calculating the lowest commmon multiple of two numbers, you have to follow 
 ### Arithmetic and geometric progressions
 
 In order to sum these progessions, first a number must be taken, after the value has been chosen it must be multiplied by itself, whilst doing this the number must then be added by itself. This will loop and won't stop until a set value appearsm this means it can go on for any amount of time. After this has been done it will just get the final values and display them presenting the progression of values. The only difference between Geometric and Arithmetic is that Geometric is times whereas Arithmetic is addition.
+
+### Progression algorithm for Arithmetic and geometric.
+
+#include <iostream>
+
+#include <cstdlib>
+
+using namespace std;
+
+int main () {
+
+int input;
+
+cout<< "type a number: \n";
+
+cin >> input; 
+
+int loop = 0;
+
+
+do{
+
+ 
+
+int geometric = input * input;
+
+int arithmetic = input + input;
+
+int arithmetic2 = arithmetic + input;
+
+int geometric2 = geometric * input;
+
+int arithmetic3 = arithmetic2 + input;
+
+int geometric3 = geometric2 * input;
+
+//adds 1 to loop variable
+loop++;
+
+  cout<<"geometric value:";
+  cout<<geometric;
+  cout<<"\n";
+  cout<<"arithmetic value:";
+  cout<<arithmetic;
+  cout<<"\n";
+  cout<<"geometric value:";
+  cout<<geometric2;
+  cout<<"\n";
+  cout<<"arithmetic value:";
+  cout<<arithmetic2;
+  cout<<"\n";
+  cout<<"geometric value:";
+  cout<<geometric3;
+  cout<<"\n";
+  cout<<"arithmetic value:";
+  cout<<arithmetic3;
+  cout<<"\n";
+  
+  
+  
+  
+} while( loop < 0 );
+return (0);
+
+ 
+}
