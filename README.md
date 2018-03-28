@@ -132,3 +132,11 @@ Above is the table that shows the properties of quadrilaterals and how they diff
 These properties can be better shown when using co-ordinates, for example a square will have 4 equal sides and 4 right angles, with co-ordinates that can be shown by saying that on a graph the points will be: (2,2) (2,-2) (-2,2) (-2,-2), because all sides are equal and with the right angles, the sides are complete opposites which means the points must be too. 
 Demonstrating this with a rectangle, the points would looks something more like this, (2,3) (2,-3) (-2,3) (-2,-3). A rectangle is required to have 2 equal sides, this means that there has to be longer horizontal lines than landscape, this means that the 2 horizontal lines will be equal and so will the 2 landscape lines. 
 
+
+
+### Rate of change,
+
+It is the average rate in which a function changes when regarding values. The it is the function result and the input result being different. For example the miles per hour is an example rate of change. 
+
+
+
