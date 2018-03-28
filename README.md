@@ -139,4 +139,16 @@ Demonstrating this with a rectangle, the points would looks something more like 
 It is the average rate in which a function changes when regarding values. The it is the function result and the input result being different. For example the miles per hour is an example rate of change. 
 
 
+### Vector 
+
+Different shapes with different lengths and information, identifying and scaling shapes
+
+
+### Calculus
+
+A = -b f(x)dx=F(a)-F(b)
+     a      
+
+
+
 
