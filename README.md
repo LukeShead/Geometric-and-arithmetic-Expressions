@@ -260,13 +260,14 @@ When there is a curve that is needed to be calculated, it can be done through us
 
 In order to complete this calculation, there cannot be one area to look at but several, so what we do is create multiple rectangles within the area in order to figure out each one, by doing so we will be able to figure out the area.
 
-![Algorithm](https://github.com/LukeShead/Maths/blob/master/Algorithm%20for.JPG)
+
+![Rectangle table](https://github.com/LukeShead/Maths/blob/master/infinite%20rectangle.JPG)
 
 ![calculus area](https://github.com/LukeShead/Maths/blob/master/Calculus%20area.JPG)
 
-![Calculus equation](https://github.com/LukeShead/Maths/blob/master/Integral%20Calculus.JPG)
+![Algorithm](https://github.com/LukeShead/Maths/blob/master/Algorithm%20for.JPG)
 
-![Rectangle table](https://github.com/LukeShead/Maths/blob/master/infinite%20rectangle.JPG)
+![Calculus equation](https://github.com/LukeShead/Maths/blob/master/Integral%20Calculus.JPG)
 
 
 
