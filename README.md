@@ -136,7 +136,15 @@ Demonstrating this with a rectangle, the points would looks something more like 
 
 ### Rate of change,
 
-It is the average rate in which a function changes when regarding values. The it is the function result and the input result being different. For example the miles per hour is an example rate of change. 
+It is the average rate in which a function changes when regarding values. The it is the function result and the input result being different. For example the miles per hour is an example rate of change. The idea is that we can take the distance, 'miles' and the measure of time 'hour', and then we take the two values in order to make miles per hour.
+
+Rate of change is dividing a value by another in order to make a function that can be helpful for certain equations, for example miles and hours into miles per hour in order to get a unit a speed.
+
+
+
+
+INSERT FORMULA
+
 
 
 ### Vector 
