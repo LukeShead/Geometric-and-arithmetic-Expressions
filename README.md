@@ -256,6 +256,13 @@ function shape(){
 ```
 ### Calculus
 
+![Algorithm](https://github.com/LukeShead/Maths/blob/master/Algorithm%20for.JPG)
+
+![calculus area](https://github.com/LukeShead/Maths/blob/master/Calculus%20area.JPG)
+
+![Calculus equation](https://github.com/LukeShead/Maths/blob/master/Integral%20Calculus.JPG)
+
+![Rectangle table](https://github.com/LukeShead/Maths/blob/master/infinite%20rectangle.JPG)
 
 
 
