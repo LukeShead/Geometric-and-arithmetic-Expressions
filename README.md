@@ -149,7 +149,7 @@ Rate of change is dividing a value by another in order to make a function that c
 
 A vector method is where we use different shapes with different lengths and information in order to identify and scale shapes in a way that uses the magnitude and direction in order to complete its tasks. This includes mathematical and geometrical representations.
 
- 
+ ```
 <html>
 <body>
 
@@ -253,7 +253,7 @@ function shape(){
 
 </body>
 </html>
-
+```
 ### Calculus
 
 A = -b f(x)dx=F(a)-F(b)
