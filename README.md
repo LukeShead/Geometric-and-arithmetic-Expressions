@@ -141,9 +141,7 @@ It is the average rate in which a function changes when regarding values. The it
 Rate of change is dividing a value by another in order to make a function that can be helpful for certain equations, for example miles and hours into miles per hour in order to get a unit a speed.
 
 
-
-
-INSERT FORMULA
+[Rate Of change](https://github.com/LukeShead/Maths/blob/master/RateofChange.JPG)
 
 
 
