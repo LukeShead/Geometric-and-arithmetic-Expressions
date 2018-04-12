@@ -125,13 +125,14 @@ When designing and developing softwares or algorithms that involves shapes, you 
 
 There are properties to every shape, these properties can be summed up in a table that allows people to see what kind of shape it is, this is espiecially important for quadrilaterals as many shapes can be made by changing a property of it. 
 
-![Quad properties](https://github.com/LukeShead/Maths/blob/master/Quad%20properties.JPG) Taken from https://www.sophia.org/tutorials/coordinate-geometry-of-quadrilaterals--2
+![Quad properties](https://github.com/LukeShead/Maths/blob/master/Quad%20properties.JPG) 
+
+Taken from https://www.sophia.org/tutorials/coordinate-geometry-of-quadrilaterals--2
 
 Above is the table that shows the properties of quadrilaterals and how they differ depending on the properties that they have. 
 
 These properties can be better shown when using co-ordinates, for example a square will have 4 equal sides and 4 right angles, with co-ordinates that can be shown by saying that on a graph the points will be: (2,2) (2,-2) (-2,2) (-2,-2), because all sides are equal and with the right angles, the sides are complete opposites which means the points must be too. 
 Demonstrating this with a rectangle, the points would looks something more like this, (2,3) (2,-3) (-2,3) (-2,-3). A rectangle is required to have 2 equal sides, this means that there has to be longer horizontal lines than landscape, this means that the 2 horizontal lines will be equal and so will the 2 landscape lines. 
-
 
 
 ### Rate of change,
@@ -144,10 +145,113 @@ Rate of change is dividing a value by another in order to make a function that c
 ![Rate of Change](https://github.com/LukeShead/Maths/blob/master/RateofChange.JPG)
 
 
-### Vector 
+### Vector methods
 
-Different shapes with different lengths and information, identifying and scaling shapes
+A vector method is where we use different shapes with different lengths and information in order to identify and scale shapes in a way that uses the magnitude and direction in order to complete its tasks. This includes mathematical and geometrical representations.
 
+<html>
+<body>
+
+<canvas id="myCanvas" width="300" height="150" style="border:1px solid #d3d3d3;"></canvas>
+
+<br>
+<button onclick="move(1)">LEFT</button>
+<button onclick="move(2)">UP</button>
+<button onclick="move(3)">DOWN</button>
+<button onclick="move(4)">RIGHT</button>
+<br>
+<button onclick="move(5)">DIAGONAL RIGHT DOWN</button>
+<button onclick="move(6)">DIAGONAL RIGHT UP</button>
+<br>
+<button onclick="move(7)">DIAGONAL LEFT DOWN</button>
+<button onclick="move(8)">DIAGONAL LEFT UP</button>
+<br>
+<button onclick="shape()">SHAPE?</button>
+
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.beginPath();
+
+var curX=parseInt(prompt("Please enter the initial X"));;
+var curY=parseInt(prompt("Please enter the initial Y"));;
+
+function move(dir){
+var mag = parseInt(prompt("Please enter the magnitude"));
+
+if(dir==1){
+  //left
+  ctx.moveTo(curX, curY);
+  curX = curX-mag;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Left / Vector Magnitude: "+mag);
+}else if(dir==2){
+  //up
+  ctx.moveTo(curX, curY);
+  curY = curY-mag;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Up / Vector Magnitude: "+mag);
+}else if(dir==3){
+  //down
+  ctx.moveTo(curX, curY);
+  curY = curY+mag;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Down / Vector Magnitude: "+mag);
+}else if(dir==4){
+  //right
+  ctx.moveTo(curX, curY);
+  curX = curX+mag;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Right / Vector Magnitude: "+mag);
+}else if(dir==5){
+  //diagonal right down
+  ctx.moveTo(curX, curY);
+  curX = curX+mag/2;
+  curY = curY+mag/2;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Diagonal Right Down / Vector Magnitude: "+mag);
+}else if(dir==6){
+  //diagonal right up
+  ctx.moveTo(curX, curY);
+  curX = curX+mag/2;
+  curY = curY-mag/2;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Diagonal Right Up / Vector Magnitude: "+mag);
+}else if(dir==7){
+  //diagonal left down
+  ctx.moveTo(curX, curY);
+  curX = curX-mag/2;
+  curY = curY+mag/2;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Diagonal Left Down / Vector Magnitude: "+mag);
+}else if(dir==8){
+  //diagonal left up
+  ctx.moveTo(curX, curY);
+  curX = curX-mag/2;
+  curY = curY-mag/2;
+  ctx.lineTo(curX, curY);  
+  alert("Vector Direction: Diagonal Left Up / Vector Magnitude: "+mag);
+}
+
+ctx.stroke();
+
+}
+
+function shape(){
+  var shape = prompt("Is this a shape Y/N?");
+
+  if(shape=='Y'){
+      prompt("What shape?");
+  }else {
+      alert("Keep drawing!");
+  }
+}
+
+</script>
+
+</body>
+</html>
 
 ### Calculus
 
