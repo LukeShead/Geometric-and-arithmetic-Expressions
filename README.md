@@ -265,10 +265,23 @@ In order to complete this calculation, there cannot be one area to look at but s
 
 ![calculus area](https://github.com/LukeShead/Maths/blob/master/Calculus%20area.JPG)
 
+## The method
+
+Below are some equations for figuring out Integral Calculus.
+
 ![Algorithm](https://github.com/LukeShead/Maths/blob/master/Algorithm%20for.JPG)
 
 ![Calculus equation](https://github.com/LukeShead/Maths/blob/master/Integral%20Calculus.JPG)
 
+The first symbol ∫, represents intergration within the formula, this is where the intergral is found. The opposite of this is derivation. 
+
+The two letters a and b are both placed on either side of the ∫ symbol as the calculations are coming from going from a to b. The next symbol dx shows
+
+The a and b signs are placed on each side of the ∫ symbol since we want to calculate from a to b. The symbol dx represents the differential of the variable x, indicates that the variable of integration is x. Finding the area to the x axis from the curve means we have to find the integral of a function with respect to x.
+
+A 'higher derirative' is a way of essentially making a complex funtion simpler .Where a simple function is also called a liniaer function as it is portrayed as a line on a graph, but when the function is more complex it becomes curved, a higher derirative is a way of converting a curved line into a straight line. X is infinite, meaning that the whole infinite (x) can be divided into segments and by using each part a sum may be reached.
+
+By multiplying the function by the derivative of the function, we can calculate the area by creating an infinite area of rectangles to find the area. Because we already know the formula for the area of a rectangle, it makes it simple to calculate.
 
 
 A = -b f(x)dx=F(a)-F(b)
