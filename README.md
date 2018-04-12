@@ -275,14 +275,13 @@ Below are some equations for figuring out Integral Calculus.
 
 The first symbol ∫, represents intergration within the formula, this is where the intergral is found. The opposite of this is derivation. 
 
-The two letters a and b are both placed on either side of the ∫ symbol as the calculations are coming from going from a to b. The next symbol dx shows
+The two letters a and b are both placed on either side of the ∫ symbol as the calculations are coming from going from a to b. The next symbol dx shows the differential of the variable x, this shows the variable of integration is also x. The area is found from the x axis from the curve, this means the integral of the function must be x
 
-The a and b signs are placed on each side of the ∫ symbol since we want to calculate from a to b. The symbol dx represents the differential of the variable x, indicates that the variable of integration is x. Finding the area to the x axis from the curve means we have to find the integral of a function with respect to x.
+The second part is using a derirative, this is a way of simplifying the function, in this case our complex function is the curved line that we are trying to find the area. The Higher Derirative is the way of showing the curved line as a straight line instead. If x is infinite then it means that the curve which is an infinite can be divided into segments and by doing this, we can solve the individual parts to make the sum.
 
-A 'higher derirative' is a way of essentially making a complex funtion simpler .Where a simple function is also called a liniaer function as it is portrayed as a line on a graph, but when the function is more complex it becomes curved, a higher derirative is a way of converting a curved line into a straight line. X is infinite, meaning that the whole infinite (x) can be divided into segments and by using each part a sum may be reached.
+We can now calculate the area of the curve and infinite rectangles to find the area. We do this by multiplying the function by the derirative of the function. The formula of the area of one of the rectangles is already know, this means that we can calculate this much easier.
 
-By multiplying the function by the derivative of the function, we can calculate the area by creating an infinite area of rectangles to find the area. Because we already know the formula for the area of a rectangle, it makes it simple to calculate.
-
+#### Below is the equation simplified.
 
 A = -b f(x)dx=F(a)-F(b)
      a      
