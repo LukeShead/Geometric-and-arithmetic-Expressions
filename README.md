@@ -256,6 +256,9 @@ function shape(){
 ```
 ### Calculus
 
+
+
+
 A = -b f(x)dx=F(a)-F(b)
      a      
 
