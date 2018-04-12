@@ -254,7 +254,11 @@ function shape(){
 </body>
 </html>
 ```
-### Calculus
+### Integral Calculus
+
+When there is a curve that is needed to be calculated, it can be done through using Integral Calculus, when looking at complex shapes that are curved, normal methods of working out the area inside the shape cannot be used, instead we use this method.
+
+In order to complete this calculation, there cannot be one area to look at but several, so what we do is create multiple rectangles within the area in order to figure out each one, by doing so we will be able to figure out the area.
 
 ![Algorithm](https://github.com/LukeShead/Maths/blob/master/Algorithm%20for.JPG)
 
