@@ -144,6 +144,23 @@ Rate of change is dividing a value by another in order to make a function that c
 
 ![Rate of Change](https://github.com/LukeShead/Maths/blob/master/RateofChange.JPG)
 
+In order to show this better than just explaining it, here are some examples:
+
+#### Example of rate of change
+##### F(x) = x²
+##### Rate of change from 1 to 3
+
+(3² - 1²) / (3-1) = (9-1) / (3-1) = 8/2 = 4
+
+When converting this answer to binary, the answer becomes 0100
+
+#### Second example for rate of change
+##### F(x) = 2x+3
+##### Rate of change from 10 to 100
+
+(2*100+3) - (2*10+3) / (100 - 10) = 180/90 = 2
+
+After converting this answer to hexadecimals, the answer is 2
 
 ### Vector methods
 
